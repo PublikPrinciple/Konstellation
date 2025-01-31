@@ -1,9 +1,6 @@
 
 ![Konstellation Framwork](https://github.com/user-attachments/assets/39839284-49bf-4055-8ac5-35a34d28bd1e)
 
-Here's the **README.md** file for the **Konstellation Framework** repository. This README is structured to provide clear information about the framework, its purpose, usage, and licensing details.  
-
----
 
 ```md
 # Konstellation Framework
