@@ -1,150 +1,145 @@
 
 
-# **Konstellation Framework License Agreement**  
-**Version 3.0 (GPLv3 + Ethical, Corporate, & Commercialization Addendum)**  
+Konstellation Framework License Agreement  
+Version 3.0 (GPLv3 + Ethical, Corporate, & Commercialization Addendum)
 
----
 
-## **GNU GENERAL PUBLIC LICENSE**  
-**Version 3, 29 June 2007**  
+GNU GENERAL PUBLIC LICENSE 
+Version 3, 29 June 2007  
 
 Copyright (C) 2025 Free Software Foundation, Inc. <https://fsf.org/>  
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.  
 
----
 
-## **Preamble**  
+Preamble
 
-The **Konstellation Framework** is a free, open-source project designed to ensure ethical deployment of technology, prevent exploitation, and promote transparent commercial practices. It extends the GNU General Public License v3 with additional ethical and commercialization clauses to uphold digital rights, social equity, and responsible AI governance.  
+The Konstellation Framework is a free, open-source project designed to ensure the ethical deployment of technology, prevent exploitation, and promote transparent commercial practices. It extends the GNU General Public License v3 with additional ethical and commercialization clauses to uphold digital rights, social equity, and responsible AI governance.  
 
 This license ensures that:  
-✅ **You can** use, modify, and distribute the software freely.  
-❌ **You cannot** use it for unethical, exploitative, or manipulative purposes.  
-💼 **You must** comply with corporate, ethical, and commercialization regulations if using it for business or financial gain.  
+✅ You can use, modify, and distribute the software freely.  
+❌ You cannot use it for unethical, exploitative, or manipulative purposes.  
+💼 You must comply with corporate, ethical, and commercialization regulations if using it for business or financial gain.  
 
 For the developers' and users' protection, this license prohibits exploitative applications while preserving the open-source nature of the software. The terms and conditions for copying, distribution, modification, and commercialization follow.  
 
----
 
-## **TERMS AND CONDITIONS**  
 
-### **0. Definitions**  
+TERMS AND CONDITIONS
 
-- **"The Program"** refers to the Konstellation Framework and its associated software.  
-- **"Covered Work"** refers to the Program, either in its unmodified form or as a derivative work.  
-- **"Licensee"** refers to any individual or entity using, modifying, or distributing the software.  
-- **"Commercial Use"** refers to any deployment generating revenue, whether directly (e.g., SaaS, paid applications) or indirectly (e.g., advertisements, enterprise usage).  
-- **"Ethical Violation"** refers to any action that conflicts with the ethical restrictions outlined in this license.  
+0. Definitions
 
----
+"The Program" refers to the Konstellation Framework and its associated software.  
+"Covered Work" refers to the Program, either in its unmodified form or as a derivative work.  
+"Licensee" refers to any individual or entity using, modifying, or distributing the software.  
+"Commercial Use" refers to any deployment generating revenue, whether directly (e.g., SaaS, paid applications) or indirectly (e.g., advertisements, enterprise usage).  
+"Ethical Violation" refers to any action that conflicts with the ethical restrictions outlined in this license.  
 
-## **1. Source Code & Basic Permissions**  
+1. Source Code & Basic Permissions**  
 
 All rights granted under this License apply for the term of copyright on the Program and are **irrevocable** provided that the stated conditions are met.  
 
-### **You are free to:**  
-✅ **Use the software** for personal, educational, or commercial purposes.  
-✅ **Modify the code** to suit your needs.  
-✅ **Distribute original or modified versions** under the same license.  
+You are free to:  
+✅ Use the software** for personal, educational, or commercial purposes.  
+✅ Modify the code** to suit your needs.  
+✅ Distribute original or modified versions** under the same license.  
 
-### **You must:**  
-🔓 **Disclose all source code modifications** when distributing derivative works.  
-🔓 **Preserve all license notices and copyright attributions.**  
-🔓 **License derivative works under GPLv3 or later.**  
+You must:
+🔓 Disclose all source code modifications** when distributing derivative works.  
+🔓 Preserve all license notices and copyright attributions.
+🔓 License derivative works under GPLv3 or later.
 
 ---
 
-## **2. Ethical & Corporate Compliance**  
+2. Ethical & Corporate Compliance**  
 
-### **Prohibited Uses**  
+Prohibited Uses**  
 
-**Any deployment of this software for the following constitutes an automatic license violation:**  
+Any deployment of this software for the following constitutes an automatic license violation:  
 
-1. **Surveillance & Privacy Violations**  
+1. Surveillance & Privacy Violations
    - Facial recognition, predictive policing, mass data tracking, or unauthorized monitoring.  
    - AI-driven systems designed to surveil or profile individuals without explicit consent.  
 
-2. **Manipulation & Exploitation**  
+2. Manipulation & Exploitation  
    - AI-generated misinformation, deepfakes, and coercive microtargeting.  
    - Dark pattern UX/UI design intended to deceive users.  
 
-3. **Autonomous Control & Restrictive Systems**  
+3. Autonomous Control & Restrictive Systems  
    - Social credit scoring or AI-based discrimination against individuals or communities.  
    - Workforce surveillance and productivity tracking systems that exploit labor.  
 
-4. **Military & Law Enforcement Weaponization**  
+4. Military & Law Enforcement Weaponization  
    - Development of autonomous weapons or war strategy AI.  
    - Law enforcement applications that enable oppression or systemic bias.  
 
-5. **Human Rights Violations & Oppressive Systems**  
+5. Human Rights Violations & Oppressive Systems  
    - AI-driven censorship, knowledge suppression, or restrictions on access to public information.  
    - Deployment in authoritarian systems that suppress civil liberties.  
 
-6. **Corporate & Financial Exploitation**  
+6. Corporate & Financial Exploitation**  
    - AI-powered financial market manipulation without transparency.  
    - Selling user data without explicit consent and opt-out mechanisms.  
 
-### **Enforcement Mechanisms**  
+Enforcement Mechanisms  
 
-1. **Automatic License Termination**  
+1. Automatic License Termination**  
    - Violators immediately lose all rights under GPLv3, including redistribution, modification, and usage rights.  
 
-2. **Ethical Compliance Audits**  
+2. Ethical Compliance Audits**  
    - Organizations deploying Konstellation for high-risk applications **must submit to an AI Ethics Board review** upon request.  
 
-3. **Penalties for Violations**  
+3. Penalties for Violations**  
    - Public disclosure of ethical violations.  
-   - Financial penalties of up to **$5M USD per incident**.  
-   - Mandatory donation to **digital rights and AI ethics NGOs**.  
+   - Financial penalties of up to $5M USD per incident**.  
+   - Mandatory donation to digital rights and AI ethics NGOs**.  
 
-4. **Whistleblower Protections**  
+4. Whistleblower Protections**  
    - Secure reporting channels (`ethics@konstellation.org`) with anonymous submission options.  
    - Whistleblowers receive legal and financial protections.  
 
 ---
 
-## **3. Commercial Use & Monetization Terms**  
+3. Commercial Use & Monetization Terms**  
 
 While commercial use is permitted, enterprises must adhere to additional requirements.  
 
-### **Permitted Commercialization Models**  
+Permitted Commercialization Models**  
 
-✅ **Custom Implementations & Consulting** – Businesses may charge for services that implement, integrate, or customize Konstellation.  
+✅ Custom Implementations & Consulting** – Businesses may charge for services that implement, integrate, or customize Konstellation.  
 
-✅ **Training & Certification** – Educators and institutions may monetize training programs, workshops, and certification courses.  
+✅ Training & Certification** – Educators and institutions may monetize training programs, workshops, and certification courses.  
 
-✅ **Value-Added Extensions** – Third parties may develop **open-source** plugins, modules, and enhancements.  
+✅ Value-Added Extensions** – Third parties may develop **open-source** plugins, modules, and enhancements.  
 
-### **Restricted Monetization Models**  
+Restricted Monetization Models**  
 
-❌ **Proprietary SaaS Lock-in** – Companies cannot restrict access to core Konstellation features through a closed-source SaaS model.  
+❌ Proprietary SaaS Lock-in** – Companies cannot restrict access to core Konstellation features through a closed-source SaaS model.  
 
-❌ **Paywalling Public Resources** – Core functionalities must remain freely available; charging for essential open-source components is prohibited.  
+❌ Paywalling Public Resources** – Core functionalities must remain freely available; charging for essential open-source components is prohibited.  
 
-❌ **Data Commodification** – Selling user data collected from Konstellation-powered applications without explicit user consent is strictly forbidden.  
+❌ Data Commodification** – Selling user data collected from Konstellation-powered applications without explicit user consent is strictly forbidden.  
 
-### **Corporate Revenue Sharing Requirements**  
+Corporate Revenue Sharing Requirements  
 
 Companies generating **>$5M USD** in annual revenue from Konstellation-based solutions must:  
-💰 **Contribute 5% of profits** to the [Konstellation Ethical Fund](https://konstellation.org/donate) OR  
-💻 **Submit equivalent contributions** in open-source code.  
+💰 Contribute 5% of profits** to the [Konstellation Ethical Fund](https://konstellation.org/donate) OR  
+💻 Submit equivalent contributions** in open-source code.  
 
-### **License Enforcement on Commercial Products**  
+License Enforcement on Commercial Products**  
 
 - Any commercial software incorporating Konstellation **must display this license** and acknowledge its open-source foundation.  
 - Violators of commercial terms face **license revocation, financial penalties, and public disclosure.**  
 
+
+4. Additional Legal & Compliance Clauses**  
+
+- No Patent Encumbrance** – Patents related to Konstellation cannot be used to restrict its free use or development.  
+- No Warranty** – The Program is provided **as is**, with no implied warranties of merchantability or fitness for any purpose.  
+- Limitation of Liability** – The Konstellation authors are not responsible for any damages resulting from the use or inability to use the software.  
+
 ---
 
-## **4. Additional Legal & Compliance Clauses**  
-
-- **No Patent Encumbrance** – Patents related to Konstellation cannot be used to restrict its free use or development.  
-- **No Warranty** – The Program is provided **as is**, with no implied warranties of merchantability or fitness for any purpose.  
-- **Limitation of Liability** – The Konstellation authors are not responsible for any damages resulting from the use or inability to use the software.  
-
----
-
-## **5. How to Apply These Terms**  
+5. How to Apply These Terms**  
 
 All modified or redistributed versions must include the following notice:  
 
@@ -159,15 +154,15 @@ For full legal text, refer to:
 - [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)  
 - [Ethical & Commercialization Addendum](/docs/ethics/ENFORCEMENT.md)  
 
----
 
-## **Conclusion**  
 
-The **Konstellation Framework License Agreement** ensures that:  
-✅ **Technology serves the public good** and does not reinforce systemic exploitation.  
-✅ **Corporate use remains ethical and transparent.**  
-✅ **Commercialization supports open-source sustainability.**  
+Conclusion
 
-*"Technology should empower, not exploit."*  
-— **Konstellation Framework Manifesto**  
+The Konstellation Framework License Agreement** ensures that:  
+✅ Technology serves the public good** and does not reinforce systemic exploitation.  
+✅ Corporate use remains ethical and transparent.  
+✅ Commercialization supports open-source sustainability.  
+
+"Technology should empower, not exploit."  
+— Konstellation Framework Manifesto  
 
