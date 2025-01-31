@@ -1,3 +1,6 @@
+
+![Konstellation Framwork](https://github.com/user-attachments/assets/39839284-49bf-4055-8ac5-35a34d28bd1e)
+
 Here's the **README.md** file for the **Konstellation Framework** repository. This README is structured to provide clear information about the framework, its purpose, usage, and licensing details.  
 
 ---
@@ -9,6 +12,7 @@ Here's the **README.md** file for the **Konstellation Framework** repository. Th
 ## 🚀 Overview  
 
 The **Konstellation Framework** is an advanced AI system designed to facilitate ethical, transparent, and responsible AI-driven interactions. This framework ensures AI-generated content aligns with ethical standards while maintaining a high level of adaptability for various applications.  
+![Konstellation Framwork](https://github.com/user-attachments/assets/780c0676-5a9c-4e45-9abc-4e7bd2607834)
 
 ## 🔍 Purpose  
 
