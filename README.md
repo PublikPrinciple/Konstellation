@@ -86,6 +86,9 @@ Konstellation is an **open-source initiative**. Contributions are welcome, provi
 
 💡 **Join our AI Ethics & Development Community! https://matrix.to/#/%23Konstellation:matrix.org
 
+test beta
+https://chatgpt.com/g/g-673952036d8c81918dc1def6f35747d7-konstellation
+
 ---
 
 ## 🛠️ Support & Contact  
