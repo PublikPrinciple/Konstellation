@@ -84,7 +84,7 @@ Konstellation is an **open-source initiative**. Contributions are welcome, provi
 2. **Submit a Pull Request** with a clear description.  
 3. **Engage in discussions** to improve AI ethics and governance.  
 
-💡 **Join our AI Ethics & Development Community!** [Konstellation Community](https://konstellation.org/community)  
+💡 **Join our AI Ethics & Development Community! https://matrix.to/#/%23Konstellation:matrix.org
 
 ---
 
@@ -92,9 +92,8 @@ Konstellation is an **open-source initiative**. Contributions are welcome, provi
 
 For support, questions, or general inquiries, reach out to:  
 
-📧 **General Support:** support@konstellation.org  
-📝 **Legal & Licensing Inquiries:** legal@konstellation.org  
-🌍 **Website:** [https://konstellation.org](https://konstellation.org)  
+📧 **General Support:** Konstellation@publikschool.pro 
+📝 **Legal & Licensing Inquiries:** legal@publikschool.pro 
 
 ---  
 
